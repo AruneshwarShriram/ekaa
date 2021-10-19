@@ -1,0 +1,51 @@
+body {
+ font-size: 20px;
+ color: floralwhite;
+ font-family: Garamond, serif;
+ background-image: linear-gradient(to right, #667ea7, #6274aa, #6368ab, #6b5ba8, #764ba2);
+ cursor: pointer;
+}
+th {
+  border: 2px solid whitesmoke;
+  border-radius: 100px;
+}
+td{
+  border:  2px solid rebeccapurple;
+  border-radius: 100px;
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  box-shadow: 0px 0px 10px 0px rgba(245, 245, 245, 0.3);
+
+}
+table tr th{
+  background: rebeccapurple;
+}
+table tr td{
+  background: whitesmoke;
+  color: rebeccapurple;
+}
+table {
+  border-spacing: 30px;
+}
+h2{
+  font-size: 50px;
+}
+th,td{
+  font-weight: bold;
+  font-size: 25px;
+}
+tr:hover {
+  background-color: #3e0fef
+}
+a:link {
+  color: burlywood;
+  text-decoration: none;
+}
+td{
+  padding-left:20px;
+  align-items: center;
+}

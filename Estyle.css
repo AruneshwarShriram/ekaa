@@ -1,0 +1,58 @@
+*{
+    background-image: linear-gradient(to right, #667ea7, #6274aa, #6368ab, #6b5ba8, #764ba2);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: whitesmoke;
+    margin: 0px;
+    padding: 0px;
+}
+
+.infos{
+    margin-top: 20px;
+    padding: 18px;
+    text-align: center;
+}
+
+ table{
+     text-align: center;
+    margin-left: 270px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    background: none;
+    border-spacing: 22px;
+    padding: 20px;
+}
+
+
+
+table tr th{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: hidden;
+    border-radius: 3px;
+    background:#FACCFF;
+    color: black;
+    box-shadow: 0px 0px 10px 0px rgba(245, 245, 245, 0.3);
+    padding: 10px;
+}
+
+table tr td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background: #E0ECFC;
+    padding: 10px;
+    border-radius: 3px;
+    border-style: hidden;
+}
+
+table tr td a{
+    background: #E0ECFC;
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ 
+
+
+
+
+

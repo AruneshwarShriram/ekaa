@@ -1,2 +1,2 @@
 # EKAA
-Basic HtML Project for college assignment
+Basic HTML Project for college assignment
